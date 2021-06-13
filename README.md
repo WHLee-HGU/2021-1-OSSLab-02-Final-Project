@@ -28,7 +28,7 @@
 21.	https://github.com/SuminJN/OSS_Final_Project	(Video: https://youtu.be/BqsJ877LrNQ)
 22.	https://github.com/21900646/FinalProject_OSS_2021	(Video: https://youtu.be/ZSMMJeBp1-Y)
 23.	https://github.com/khy0903/OSSL_Final_Project_22000019.git	(Video: https://youtu.be/tnExmQGjNII)
-24.  (Video: https://youtu.be/h8VugPHOtMk)
+24. https://github.com/skLee-HGU/OSSLab-Final_Project.git (Video: https://youtu.be/h8VugPHOtMk)
 25.	https://github.com/seykwon/OSSL_final.git	(Video: https://youtu.be/M7n5Uo0DQT4)
 26.	https://github.com/EunGyoKweon/Final-Project-22000042	(Video: https://youtu.be/3SZwCtT5Rvs)
 27.	https://github.com/hanmo2000110/Dull_Genius-oss-final-.git	(Video: https://youtu.be/lJB57-WL54I)
