@@ -1,1 +1,41 @@
 # 2021-1-OSSLab-02-Final-Project
+
+1/2
+
+1.	https://github.com/YeilKim1/final.git	(Video: https://youtu.be/K4Xpmarh2Hk)
+2.	https://github.com/lzmgl/removeINST	(Video: https://youtu.be/pu6jcWHH_ho)
+3.	https://github.com/Choi-JaeHyeok-21500749/OSS_final_UpdateNotifier	(Video: https://youtu.be/rFwv9bXBzRs)
+4.	https://github.com/Seokjunkim/Final_project	(Video: https://youtu.be/YYR_Xli_BMk)
+5.	https://github.com/dprua/HGU_Helper_ChatBot	(Video: https://youtu.be/PYt-UCfXp0w)
+6.	https://github.com/andychoi1997/OSSLab_final_21600744	(Video: https://youtu.be/ouFsEltEvko)
+7.	https://github.com/jo-wick/OSS_final_project	(Video: https://youtu.be/j8DK5umJLRo)
+8.	https://github.com/YOONGIN22222222/OSS_2021-1_FinalProject	(Video: https://youtu.be/fvupkQ28w0k)
+9.	https://github.com/Decolores24/2021_OSS_Finalproject	(Video: https://youtu.be/b_A-qHZStvU)
+10.	https://github.com/hhjj0506/OSS_Final_Project_2021	(Video: https://youtu.be/KA94PXRyy7Y)
+11.	https://github.com/dpseul/oss_final	(Video: https://youtu.be/IEh9jmGw6gQ)
+12.	https://github.com/cinxdy/LoveLanguages	(Video: https://youtu.be/OPB6ccH8_dM)
+13.	https://github.com/maibi00/OSSLab_Final	(Video: https://youtu.be/TifnsOSf288)
+14.	https://github.com/wislely/final.git	(Video: https://youtu.be/pz5nTW_p32w)
+15.	https://github.com/sanha33/OssFinalProject_21801047_Heyman	(Video: https://youtu.be/JGEu69S_lbk)
+16.	https://github.com/kuma1108/OSS_final-StudyPlanner	(Video: https://youtu.be/Ew9AWqZoFX4)
+17.	https://github.com/SeY-Kim/oss_final	(Video: https://youtu.be/eu6zjwA4K4U)
+18.	https://github.com/21900124/OSS-Final-project.git	(Video: https://youtu.be/XtLJYrjkFcs)
+
+2/2
+
+19.	https://github.com/jihyunmoon98/OSSL_final_project_21900255.git	(Video: https://youtu.be/s1RXaiYi_ec)
+20.	https://github.com/insun98/MAYwant	(Video: https://youtu.be/qXFvZQPXQA0)
+21.	https://github.com/SuminJN/OSS_Final_Project	(Video: https://youtu.be/BqsJ877LrNQ)
+22.	https://github.com/21900646/FinalProject_OSS_2021	(Video: https://youtu.be/ZSMMJeBp1-Y)
+23.	https://github.com/khy0903/OSSL_Final_Project_22000019.git	(Video: https://youtu.be/tnExmQGjNII)
+24.  (Video: https://youtu.be/h8VugPHOtMk)
+25.	https://github.com/seykwon/OSSL_final.git	(Video: https://youtu.be/M7n5Uo0DQT4)
+26.	https://github.com/EunGyoKweon/Final-Project-22000042	(Video: https://youtu.be/3SZwCtT5Rvs)
+27.	https://github.com/hanmo2000110/Dull_Genius-oss-final-.git	(Video: https://youtu.be/lJB57-WL54I)
+28.	https://github.com/GomShua/2021-1_OSSLab_FinalProject.git	(Video: https://youtu.be/WwiX7OGxML0)
+29.	https://github.com/skqhfla/2021_OSS_FINAL.git	(Video: https://youtu.be/z1XgxbRP0yk)
+30.	https://github.com/ParkMinjun0721/OSSL_Final_Project	(Video: https://youtu.be/X0hgYqvosZo)
+31.	https://github.com/seohwee/OSS_Final_Project	(Video: https://youtu.be/2-CPn_SqA2Q)
+32.	https://github.com/AnJW-HGU/OSSL_Final_Project	(Video: https://youtu.be/gwhHm6dE1vE)
+33.	https://github.com/YSLee551/oss_final	(Video: https://youtu.be/1qw6ul-of9Y)
+34.	https://github.com/ihatemintcho/2021_OSS_final.git	(Video: https://youtu.be/ugQgaWFIrcw)
