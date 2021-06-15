@@ -41,3 +41,4 @@
 34.	https://github.com/ihatemintcho/2021_OSS_final.git	(Video: https://youtu.be/ugQgaWFIrcw)
 35.	https://github.com/YuSoeun/2021-1_OSS_FinalProject  (Video: https://youtu.be/6S9SlEkUzx0)
 36.	https://github.com/luiheid/OSS_Final_Project.git (Video: https://youtu.be/shxIKEltGzU)
+37.	https://github.com/koyoonyoung777/OSS_final_project.git (Video: https://youtu.be/AeecXJeMtq4)
